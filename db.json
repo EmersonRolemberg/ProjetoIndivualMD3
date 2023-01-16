@@ -1,0 +1,59 @@
+{
+    "filmes": [
+        {
+            "titulo": "De Férias da Família",
+            "ano": 2022,
+            "diretor": " John Hamburg",
+            "id": 1
+        },
+        {
+            "titulo": "Mundo Estranho",
+            "ano": 2022,
+            "diretor": "Don Hall",
+            "id": 2
+        },
+        {
+            "titulo": "Luck",
+            "ano":  2022,
+            "diretor": " Peggy Holmes",
+            "id": 3
+        },
+        {
+            "titulo": "As Branquelas",
+            "ano":  2004,
+            "diretor": "  Keenen Ivory Wayans",
+            "id": 4
+        },
+        {
+            "titulo": "O Auto da Compadecida",
+            "ano":  2000,
+            "diretor": "  Guel Arraes",
+            "id": 5
+        }
+
+    ],
+    "cinemas": [
+        {
+        "nome": "Cinema 1",
+        "local": "Rio de Janeiro",
+        "id": 1
+        },
+        {
+        "nome": "Cinema 2",
+        "local": "São Paulo",
+        "id": 2
+        },
+        {
+        "nome": "Cinema 3",
+        "local": "Belo Horizonte",
+        "id": 3
+        },
+        {
+            "nome": "Cinema 4",
+            "local": "Minas gerais",
+            "id": 4
+         }
+
+    ]
+    
+}
